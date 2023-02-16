@@ -1,4 +1,4 @@
-< h1 alinear = "centro" > Hola 👋, soja Cristian Bolaños < / h1 >
+< h1 alinear = "centro" > Hola 👋, soy Cristian Bolaños < / h1 >
 < h3 alinear = "centro" > Tecnólogo en sistemas con 1 año de experiencia, en el campo laboral por empresa, dedicado al sector de la tecnología tanto por empresa como independiente, contando con experiencias y conocimientos en computadores, programación, diseño, mantenimiento un manejo y aprendizaje adecuado, uso del software y hardware de acuerdo a la necesidad de volver. Como desarrollador frontal. < / h3 >
 
 - 🌱 Actualmente ** estoy retomando el mundo de la programación como frontend developer.**
