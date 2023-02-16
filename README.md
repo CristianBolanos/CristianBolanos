@@ -1,13 +1,12 @@
+<div>
+
 <h1 align="center">Hola 👋, soy Cristian Bolaños</h1>
 <h3 align="center">Tecnólogo en sistemas con 1 año de experiencia, en el campo laboral por empresa, dedicado al sector de la tecnología tanto por empresa como independiente, contando con experiencias y conocimientos en computadores, programación, diseño, dando un manejo y aprendizaje adecuado, al uso del software y hardware de acuerdo a la necesidad requerida. como frontend developer.</h3>
 
-- 🌱 Actualmente **estoy retomando el mundo de la programación como frontend developer.**
+🌱 Actualmente **estoy retomando el mundo de la programación como frontend developer.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Cristian032019](https://github.com/Cristian032019)
+👨‍💻 Conoce mis experiencias [https://cristian032019.github.io/cb/](https://cristian032019.github.io/cb/)
 
-- 📫 How to reach me **cristianbolanos316@gmail.com**
-
-- 📄 Know about my experiences [https://cristian032019.github.io/cb/](https://cristian032019.github.io/cb/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian032019&show_icons=true&locale=en" alt="cristian032019" /></p>
 
+</div>
 
