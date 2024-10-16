@@ -20,6 +20,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-i…7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavSscript" width="40" height="40"/>
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 
