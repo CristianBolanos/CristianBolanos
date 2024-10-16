@@ -1,9 +1,9 @@
 <div>
 
 <h1 align="center">Hola 👋, soy Cristian Bolaños</h1>
-<h3 align="center">Tecnólogo en sistemas con 1 año de experiencia, en el campo laboral por empresa, dedicado al sector de la tecnología tanto por empresa como independiente, contando con experiencias y conocimientos en computadores, programación, diseño, dando un manejo y aprendizaje adecuado, al uso del software y hardware de acuerdo a la necesidad requerida. como frontend developer.</h3>
+<h3 align="center"></h3>
 
-🌱 Actualmente **estoy retomando el mundo de la programación como frontend developer.**
+🌱 Actualmente **Actualmente, estoy aprendiendo sobre la IA para optimizar la productividad.**
 
 👨‍💻 Conoce mis experiencias [https://cristian032019.github.io/cb/](https://cristian032019.github.io/cb/)
 
