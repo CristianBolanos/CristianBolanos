@@ -39,11 +39,10 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg#L1" alt="github" width="40" height="40">
 
-
-<br><br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact" alt="cristian032019" /></p>
 
-<img  width="350" alt="0xabdulkhalid" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasop01&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;">
+<img width="350" alt="cristian032019" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian032019&show_icons=true&locale=en" alt="cristian032019" /></p>
 
