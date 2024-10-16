@@ -40,11 +40,13 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg#L1" alt="github" width="40" height="40">
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact" alt="cristian032019" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact" alt="cristian032019" /></p>-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cristian032019&show__icons=true&locale=es&theme=dark#gh-dark-mode-only" alt="cristian032019" /></p>
    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian032019&show_icons=true&locale=en" alt="cristian032019" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian032019&show_icons=true&locale=es&theme=dark#gh-dark-mode-only" alt="cristian032019" /></p>
 
 </div>
 
