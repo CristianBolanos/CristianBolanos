@@ -32,7 +32,7 @@
 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="github" width="40" height="40">
 
-<img  data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40">
 
 
 
