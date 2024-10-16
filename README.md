@@ -42,6 +42,8 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact" alt="cristian032019" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" alt="cristian032019" /></p>
+
 <img width="350" alt="cristian032019" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian032019&show_icons=true&locale=en" alt="cristian032019" /></p>
