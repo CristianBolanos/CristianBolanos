@@ -25,15 +25,19 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  
+
+<a href="https://vscode.dev/?vscode-lang=es-es" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="git" width="40" height="40"/>
   
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="github" width="40" height="40">
 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40">
 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg#L1" alt="github" width="40" height="40">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=en&layout=compact" alt="cristian032019" /></p>
