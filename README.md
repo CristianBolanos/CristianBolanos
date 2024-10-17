@@ -53,6 +53,8 @@
 
 <!--<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com"><img src="https://camo.githubusercontent.com" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian032019&amp;hide=html&amp;theme=graywhite" style="max-width: 100%;"></a>-->
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5627c8031718e8d58a480442250136268336c847bab99ff0fa3f3561787e5009/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c656a616e64726f537565726f267468656d653d6361747070756363696e2d6d6f636861"><img alt="Commits Streak" width="467" height="auto" src="https://camo.githubusercontent.com/5627c8031718e8d58a480442250136268336c847bab99ff0fa3f3561787e5009/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c656a616e64726f537565726f267468656d653d6361747070756363696e2d6d6f636861" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=cristian032019&amp;theme=catppuccin-mocha" style="max-width: 100%;"></a>
+
 
 </div>
 
