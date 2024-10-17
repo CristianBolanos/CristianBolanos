@@ -51,7 +51,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian032019&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="0xabdulkhalid"/>  ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=cristian032019&show_icons=true&theme=tokyonight)
 
-<img alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian032019&amp;hide=html&amp;theme=graywhite" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/09797a7b7e7ce2319ee84811edaca546a05d630e87af6fe4f084459d7380b52e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5365616e4c75697326686964653d68746d6c267468656d653d677261797768697465"><img src="https://camo.githubusercontent.com/09797a7b7e7ce2319ee84811edaca546a05d630e87af6fe4f084459d7380b52e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5365616e4c75697326686964653d68746d6c267468656d653d677261797768697465" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian032019&amp;hide=html&amp;theme=graywhite" style="max-width: 100%;"></a>
+
 
 </div>
 
