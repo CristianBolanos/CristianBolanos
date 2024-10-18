@@ -5,7 +5,7 @@
 
 🌱 **Actualmente, estoy aprendiendo sobre la IA para optimizar la productividad.**
 
-👨‍💻 Conoce mis experiencias https://cristian032019.github.io/cb/
+👨‍💻 Conoce mis experiencias https://cristianbolanos.github.io/cb/
 
 
 <h3 align="left">Conectate conmigo:</h3>
