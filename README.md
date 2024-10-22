@@ -51,6 +51,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianBolanos&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="0xabdulkhalid"/>  ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CristianBolanos&show_icons=true&theme=tokyonight)
 
+<img src="https://camo.githubusercontent.com/" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/CristianBolanos/count.svg" style="max-width: 100%;">
+
 <!--<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com"><img src="https://camo.githubusercontent.com" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian032019&amp;hide=html&amp;theme=graywhite" style="max-width: 100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/"><img alt="Commits Streak" width="467" height="auto" src="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=cristian032019&amp;theme=catppuccin-mocha" style="max-width: 100%;"></a>-->
