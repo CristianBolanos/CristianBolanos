@@ -57,7 +57,8 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/"><img alt="Commits Streak" width="467" height="auto" src="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=cristian032019&amp;theme=catppuccin-mocha" style="max-width: 100%;"></a>-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CristianBolanos&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" /></a>
+<!--<a href="https://git.io/streak-stats" target="_blank">-->
+<a href="https://streak-stats.demolab.com/demo/" target="_blank"><img src="https://streak-stats.demolab.com?user=CristianBolanos&theme=tokyonight&hide_border=true&locale=es&=&card_width=350" alt="GitHub Streak" /></a>
 
 <p>Contador de visitas</p>
 
