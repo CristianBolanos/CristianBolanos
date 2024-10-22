@@ -61,8 +61,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{CristianBolanos}/count.svg)
 
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7faa3053a28a8e38c1c0d9a4248cbff0591a87450449c7154cf986c39847d6c8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d47617279484c267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266375727253747265616b4e756d3d31266375727253747265616b4c6162656c3d43757272656e7425323073747265616b"><img src="https://camo.githubusercontent.com/7faa3053a28a8e38c1c0d9a4248cbff0591a87450449c7154cf986c39847d6c8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d47617279484c267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266375727253747265616b4e756d3d31266375727253747265616b4c6162656c3d43757272656e7425323073747265616b" alt="CristianBolanos's Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=CristianBolanos&amp;theme=tokyonight&amp;hide_border=true&amp;currStreakNum=1&amp;currStreakLabel=Current%20streak" style="max-width: 100%;"></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CristianBolanos" alt="GitHub Streak" /></a>
 
 </div>
 
