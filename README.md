@@ -58,7 +58,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/"><img alt="Commits Streak" width="467" height="auto" src="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=cristian032019&amp;theme=catppuccin-mocha" style="max-width: 100%;"></a>-->
 
 <p align="center">Contador de visitas</p>
-<img dir="auto">![Visitor Count](https://profile-counter.glitch.me/{CristianBolanos}/count.svg)</img>
+![Visitor Count](https://profile-counter.glitch.me/{CristianBolanos}/count.svg&align="center")
 
 </div>
 
