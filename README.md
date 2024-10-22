@@ -56,7 +56,9 @@
 <!--<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com"><img src="https://camo.githubusercontent.com" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian032019&amp;hide=html&amp;theme=graywhite" style="max-width: 100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/"><img alt="Commits Streak" width="467" height="auto" src="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=cristian032019&amp;theme=catppuccin-mocha" style="max-width: 100%;"></a>-->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4d1c3e8989f27e17b810415e29a4a51ac24086579b13ab40b54a1ea9448b151a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f47617279484c2f636f756e742e737667"><img src="https://camo.githubusercontent.com/4d1c3e8989f27e17b810415e29a4a51ac24086579b13ab40b54a1ea9448b151a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f47617279484c2f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/CristianBolanos/count.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/"><img src="https://camo.githubusercontent.com/" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/CristianBolanos/count.svg" style="max-width: 100%;"></a>
+
+![Visitor Count](https://profile-counter.glitch.me/{CristianBolanos}/count.svg)
 
 
 </div>
