@@ -62,6 +62,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{CristianBolanos}/count.svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBolanos)](https://github.com/CristianBolanos/github-readme-stats)
+
 
 </div>
 
